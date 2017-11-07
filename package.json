@@ -1,0 +1,28 @@
+{
+  "name": "react-server-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "react-router": "^3.0.0",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^0.15.6",
+    "redux-thunk": "^2.2.0",
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
